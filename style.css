@@ -4,6 +4,7 @@ body{
 	padding: 0;
 	text-align: center;
 }
+
 .container{
 
 	width: 950px;
@@ -12,7 +13,8 @@ body{
 
 }
 
-
+			/***this eliment used for toogle
+	slide and fadeIN fadeOut method on jq
 .demo1{
 
 	width: 500px;
@@ -43,31 +45,34 @@ body{
 .demo1 img{
 
 	width: 100%;
-	height:100%; /*Responsive image widt 100% and higth 50%  and also  object-fit: cover;*/
+	height:100%; 
 	object-fit: cover;
 	
 	
- }
+ }/*Responsive image widt 100% and higth 50%  and also  object-fit: cover;*/
 
-
+/*
 .demo2 img{
 
 	width: 100%;
-	height:100%px; /*Responsive image widt 100% and higth 50%  and also  object-fit: cover;*/
+	height:100%px; 
 	object-fit: cover;
 	
 	
- }
+ }/*Responsive image widt 100% and higth 50%  and also  object-fit: cover;	*/
 
+
+/*
 .demo3 img{
 
 	width: 100%;
-	height:100%; /*Responsive image widt 100% and higth 50%  and also  object-fit: cover;*/
+	height:100%; 
 	object-fit: cover;
 	
 	
- }
+ }/*Responsive image widt 100% and higth 50%  and also  object-fit: cover;*/
 
+/***
  .for_btm {
  	width:100%;
  	margin: 0;
@@ -91,4 +96,31 @@ body{
 	padding: 10px;
 	
 	
+}				***/
+
+.setup{
+	height: 200px;
+	width: 200px;
+	background-color: pink;
+	margin-left: 380px;
+	margin-bottom: 15px;
 }
+
+.h1 h1{
+
+	margin-bottom: 0;
+	padding-top: 70px;
+
+}
+
+.h2{
+	height: 200px;
+	width: 200px;
+	background-color: black;
+}
+
+
+
+
+
+
