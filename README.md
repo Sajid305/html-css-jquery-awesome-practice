@@ -1,3 +1,3 @@
-# html-css-jquery-awesome-practice
+# html-css-jquery--
 
 Note: Ignore this repository.
